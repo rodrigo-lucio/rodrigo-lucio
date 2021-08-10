@@ -7,3 +7,4 @@
 - :blue_book: <a href="https://rodrigo-lucio.github.io/" target="_blank">Aqui está meu portfólio</a>.
 <img width="396px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-lucio&theme=dark&layout=compact"/>
 
+ ![Snake animation](https://github.com/rodrigo-lucio/rodrigo-lucio/blob/output/github-contribution-grid-snake.svg)
