@@ -5,7 +5,7 @@
 - :blue_book: <a href="https://rodrigo-lucio.github.io/" target="_blank">Aqui está meu portfólio</a>.
 
 <a href="https://www.linkedin.com/in/rodrigo-lucio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:lucoiodigo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:lucio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div style="display: inline_block">
   <img align="center" alt="Rodrigo-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rodrigo-Spring" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
