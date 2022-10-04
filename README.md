@@ -1,7 +1,7 @@
 ### Olá, me chamo Rodrigo Lúcio! 👋
 
 - :man_technologist: Desenvolvedor Full Stack na <a href="https://www.senior.com.br/" target="_blank">Senior Sistemas</a>.    
-- :books: Atualmente aprofundando-se com Microsserviços em Java (Spring) e front-end com Angular.
+- :books: Atualmente aprofundando-se com Microsserviços em Java (Spring).
 - :blue_book: <a href="https://rodrigo-lucio.github.io/" target="_blank">Aqui está meu portfólio</a>.
 
 <a href="https://www.linkedin.com/in/rodrigo-lucio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
