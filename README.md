@@ -1,6 +1,6 @@
 ### Olá, me chamo Rodrigo Lúcio! 👋
 
-- :man_technologist: Desenvolvedor Full Stack na <a href="https://www.senior.com.br/" target="_blank">Senior Sistemas</a>.    
+- :man_technologist: Software Developer na <a href="https://www.senior.com.br/" target="_blank">Senior Sistemas</a>.    
 - :books: Atualmente aprofundando-se com microsserviços em Java (Spring).
 - :blue_book: <a href="https://rodrigo-lucio.github.io/" target="_blank">Aqui está meu portfólio</a>.
 
