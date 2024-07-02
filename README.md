@@ -1,6 +1,6 @@
 ### Olá, me chamo Rodrigo Lúcio! 👋
 
-- :man_technologist: Software Developer na <a href="https://www.senior.com.br/" target="_blank">Senior Sistemas</a>.    
+- :man_technologist: Engenheiro de software sênior na <a href="https://contaazul.com/" target="_blank">Conta Azul</a>.    
 - :books: Atualmente aprofundando-se com microsserviços em Java (Spring).
 - :blue_book: <a href="https://rodrigo-lucio.github.io/" target="_blank">Aqui está meu portfólio</a>.
 
